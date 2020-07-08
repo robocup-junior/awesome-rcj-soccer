@@ -48,7 +48,7 @@ Photos of the posters were taken and can be found at the link below:
 
 
 
-#### 2020
+#### 2020 - Virtual
 
 Posters and videos the teams submitted as part of the
 [RoboCupJunior Soccer Virtual Poster Session](https://junior.forum.robocup.org/t/robocupjunior-soccer-virtual-poster-session-2020/1462)
