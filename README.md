@@ -75,3 +75,9 @@ Posters and videos the teams submitted as part of the
 - **[Galacticos](https://drive.google.com/file/d/10UUOkRQoHtAvq3EVwahK8c2oGCN4cQD9/view?usp=sharing)**
 
 
+### Related lists
+
+- [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+- [Awesome Mechanical Engineering Resources](https://github.com/m2n037/awesome-mecheng)
+- [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
