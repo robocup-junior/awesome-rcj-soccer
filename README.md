@@ -6,7 +6,7 @@ Awesome RoboCupJunior Soccer
 This is a list of various websites, documents, posters, videos and other
 resources relevant for [RoboCupJunior](https://junior.robocup.org/)
 [Soccer](https://junior.robocup.org/rcj-soccer-lightweight/). It is an attempt
-to gather everything useful at one place for everybody who wants to learn more.
+to gather everything useful in one place for everybody who wants to learn more.
 
 ### Links ###
 
@@ -46,6 +46,12 @@ Photos of the posters were taken and can be found at the link below:
 
 <small>Here is the link to the [forum announcement](https://junior.forum.robocup.org/t/soccer-posters-form-robocupjunior-2018-montreal/713/2).</small>
 
+
+#### 2019 - Sydney
+
+Photos of the posters were taken and can be found at the link below:
+
+**[RoboCupJunior Soccer 2019 Posters](https://drive.google.com/drive/folders/1rplqpyFzr-upeA_Pwf8XQMAHiPX2jXMZ)**
 
 
 #### 2020 - Virtual
