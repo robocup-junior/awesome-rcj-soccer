@@ -8,11 +8,15 @@ resources relevant for [RoboCupJunior](https://junior.robocup.org/)
 [Soccer](https://junior.robocup.org/rcj-soccer-lightweight/). It is an attempt
 to gather everything useful in one place for everybody who wants to learn more.
 
+Please feel free to suggest changes by [editing the
+file](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer/edit/master/README.md)
+and creating a Pull Request!
+
 ### Links ###
 
 - [General RoboCupJunior Rules](https://junior.robocup.org/robocupjunior-general-rules/)
-- [Soccer Rules](https://junior.robocup.org/wp-content/uploads/2020Rules/final_2020rules/RCJ2020-Soccer-final.pdf)
-- [Soccer Rubrics](https://junior.robocup.org/wp-content/uploads/2019Rules/2019_Soccer_Rubrics_Final.pdf)
+- [Soccer Rules (2020)](https://junior.robocup.org/wp-content/uploads/2020Rules/final_2020rules/RCJ2020-Soccer-final.pdf)
+- [Soccer Rubrics (2019)](https://junior.robocup.org/wp-content/uploads/2019Rules/2019_Soccer_Rubrics_Final.pdf)
 
 - [RoboCupJunior Website](https://junior.robocup.org/)
 - [RoboCupJunior Forum](https://junior.forum.robocup.org/)
