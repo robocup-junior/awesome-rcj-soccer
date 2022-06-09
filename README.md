@@ -30,7 +30,7 @@ and creating a Pull Request!
 - **[XLC-Innovation](https://github.com/xlcteam/OpenBot)**
 - **[Robots FC](https://drive.google.com/drive/folders/1-62xTa-WVdmEZmCUi7LeJ8dB6AmG2IRY)**
 - **[Galacticos](http://galacticos.robotsa.com/en/teams/soccer/robocup-2018/)**
-
+- [:robot::soccer: **CoRoSoN-Kit**: **Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers ](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
 
 ### Posters
 
