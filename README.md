@@ -156,6 +156,29 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[XLC-Innovation](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_XLC_Innovation.pdf)** ([video](https://www.youtube.com/watch?v=J4LKlJkgkYk)) (`Best Technical Challenges`)
 - **[ZTK Dubrovnik CRO team](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_ZTK_Dubrovnik.pdf)** ([video](https://www.youtube.com/watch?v=V6lCuQsCa5o))
 
+#### 2022 - Worldwide
+
+Team Description Papers (TDPs) presented at the
+[RoboCup 2022 Worldwide](https://2022.robocup.org/).
+
+##### Lightweight
+
+##### Open
+
+##### SoccerSim
+
+- **[moyashirobo](https://drive.google.com/file/d/1F3wX_LT03Uyx3NNvrxSFXrYYArudlpe3)**
+- **[Connection](https://drive.google.com/file/d/1mvgtO1Qp3FeP-gRG-Qcjvz7vcVUnVsgC)**
+- **[IRA](https://drive.google.com/file/d/1Bh8i9wSnx6gROQ3ECw991YgeILUnO6qt)**
+- **[Angry nerds](https://drive.google.com/file/d/1bWakx0rY0QRJnp4MaIllFNcRMSmS_yEB)**
+- **[F6](https://drive.google.com/file/d/12V8J1yVjw_pZoith2H4Dr5wT4inpA-zm)**
+- **[Byte me](https://drive.google.com/file/d/14p2y9tTeurMMHznhYVYpAb0-FVKEM6Fm)**
+- **[APEX](https://drive.google.com/file/d/1u5hi8l02TBTfE9KXbmhhOqoyZ_l4p_MX)**
+- **[Reset](https://drive.google.com/file/d/1wKS7s-sY-8lVWrfdmiRpoNhqrePLlM1y)** (`Outstanding TDP`)
+- **[Sina](https://drive.google.com/file/d/1nUhDa0mb71TBu2VJmea6NfFw-xc3RMO6)**
+- **[Speshari](https://drive.google.com/file/d/1DA7DTUwTPm_msuHFJStDBgv8KP3rkGWs)**
+- **[A.P.S](https://drive.google.com/file/d/13l3eoFizppbv_WnTJ7--gR3MPwKIVRAA)**
+
 ### Related lists
 
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
