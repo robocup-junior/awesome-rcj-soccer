@@ -156,28 +156,47 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[XLC-Innovation](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_XLC_Innovation.pdf)** ([video](https://www.youtube.com/watch?v=J4LKlJkgkYk)) (`Best Technical Challenges`)
 - **[ZTK Dubrovnik CRO team](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_ZTK_Dubrovnik.pdf)** ([video](https://www.youtube.com/watch?v=V6lCuQsCa5o))
 
-#### 2022 - Worldwide
+#### 2022 - Bangkok
 
-Team Description Papers (TDPs) presented at the
-[RoboCup 2022 Worldwide](https://2022.robocup.org/).
+<small>Here is the link to the [forum announcement](https://junior.forum.robocup.org/t/soccer-posters-from-robocupjunior-2022-bangkok/2761).</small>
 
 ##### Lightweight
 
+- **[Aperture Robotics](https://drive.google.com/file/d/1BciaTzFyWtwUW7i2RBLrjqioYOArpkVb/view?usp=sharing)**
+- **[Bodenseeadler](https://drive.google.com/file/d/1-mX0biqkXri0Kw6fgkClfACxBPO3kxy6/view?usp=sharing)**
+- **[Epsilon 6](https://drive.google.com/file/d/1lAVEnMq27h2gyxhygF1U0Hbqkxkz_6ow/view?usp=sharing)**
+- **[FC Blum](https://drive.google.com/file/d/1BBwiVWKqJKXRqwtL3LHGuGcfLkKOq87C/view?usp=sharing)**
+- **[Gregorianos](https://drive.google.com/file/d/1NWBXkpkR0BEQ2vPQYkuu0PbpZCsW-Brh/view?usp=sharing)**
+- **[Redhood](https://drive.google.com/file/d/15VNd1ApyDjjv6NNz4tUC73-WcVLRndvI/view?usp=sharing)**
+- **[Roboticus](https://drive.google.com/file/d/1Y9xjpdJZWqulncltTBuXXvAqUkHA75_c/view?usp=sharing)**
+- **[Shinobi](https://drive.google.com/file/d/14vMU-JeGyHOXmeuvO7Lo1XEAVlvSTALC/view?usp=sharing)**
+- **[SonicSaints](https://drive.google.com/file/d/1_8WGt3D2sDXM3FHj3zCHJHFRihwFXlza/view?usp=sharing)**
+- **[Elite](https://drive.google.com/file/d/1C3YLHwWIxDp0G_9tG9b5k3MoWK5WG7O2/view?usp=sharing)**
+
 ##### Open
 
-##### SoccerSim
+- **[Bohlebots Quadro](https://drive.google.com/file/d/1eTWsc2t60vIT7HhNt0owMRx35CP62Ws7/view?usp=sharing)**
+- **[Grapes](https://drive.google.com/file/d/1ZOyEtpMJMoO5Q2wj6d_AHSTqbwR1dlW8/view?usp=sharing)**
+- **[Megahertz](https://drive.google.com/file/d/1WmA5X9IVsWNGk9Gn1bN2h3D7SDCp2hEw/view?usp=sharing)**
+- **[Orion](https://drive.google.com/file/d/1Jd_5ZCKMlo1w2pMmeDVAcMrFWeRU1dNs/view?usp=sharing)**
+- **[Polarity](https://drive.google.com/file/d/1WotSNJUyTzEwNJhiFGdmo0v6HebVFP9Y/view?usp=sharing)**
+- **[Psycho](https://drive.google.com/file/d/1kJ6lPs5v-XOhjh4Flk48mA-j1_K_tEwd/view?usp=sharing)**
+- **[Ulany](https://drive.google.com/file/d/13FAPtyWImsEaJthwo4YNqPZ-x8uGNiOv/view?usp=sharing)** 
 
-- **[moyashirobo](https://drive.google.com/file/d/1F3wX_LT03Uyx3NNvrxSFXrYYArudlpe3)**
-- **[Connection](https://drive.google.com/file/d/1mvgtO1Qp3FeP-gRG-Qcjvz7vcVUnVsgC)**
-- **[IRA](https://drive.google.com/file/d/1Bh8i9wSnx6gROQ3ECw991YgeILUnO6qt)**
+##### SoccerSim (Online event)
+
+- **[A.P.S](https://drive.google.com/file/d/13l3eoFizppbv_WnTJ7--gR3MPwKIVRAA)**
 - **[Angry nerds](https://drive.google.com/file/d/1bWakx0rY0QRJnp4MaIllFNcRMSmS_yEB)**
-- **[F6](https://drive.google.com/file/d/12V8J1yVjw_pZoith2H4Dr5wT4inpA-zm)**
-- **[Byte me](https://drive.google.com/file/d/14p2y9tTeurMMHznhYVYpAb0-FVKEM6Fm)**
 - **[APEX](https://drive.google.com/file/d/1u5hi8l02TBTfE9KXbmhhOqoyZ_l4p_MX)**
+- **[Byte me](https://drive.google.com/file/d/14p2y9tTeurMMHznhYVYpAb0-FVKEM6Fm)**
+- **[Connection](https://drive.google.com/file/d/1mvgtO1Qp3FeP-gRG-Qcjvz7vcVUnVsgC)**
+- **[F6](https://drive.google.com/file/d/12V8J1yVjw_pZoith2H4Dr5wT4inpA-zm)**
+- **[IRA](https://drive.google.com/file/d/1Bh8i9wSnx6gROQ3ECw991YgeILUnO6qt)**
+- **[moyashirobo](https://drive.google.com/file/d/1F3wX_LT03Uyx3NNvrxSFXrYYArudlpe3)**
 - **[Reset](https://drive.google.com/file/d/1wKS7s-sY-8lVWrfdmiRpoNhqrePLlM1y)** (`Outstanding TDP`)
 - **[Sina](https://drive.google.com/file/d/1nUhDa0mb71TBu2VJmea6NfFw-xc3RMO6)**
 - **[Speshari](https://drive.google.com/file/d/1DA7DTUwTPm_msuHFJStDBgv8KP3rkGWs)**
-- **[A.P.S](https://drive.google.com/file/d/13l3eoFizppbv_WnTJ7--gR3MPwKIVRAA)**
+
 
 ### Related lists
 
