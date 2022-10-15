@@ -105,7 +105,7 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[socks](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/LWL_socks.pdf)** ([video](https://www.youtube.com/watch?v=eo5rEu965ts))
 - **[SPQR](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/LWL_SPQR.pdf)** ([video](https://youtu.be/cIlFdDrJGVU)) (`Individual Team 1st Place`)
 
-#### Open
+##### Open
 
 - **[DOT](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/OPEN_DOT.pdf)** ([video](https://youtu.be/QWrGivzyHp0))
 - **[EVO](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/OPEN_EVO.pdf)** ([video](https://m.youtube.com/watch?v=UYzbhpXhWV4))
@@ -120,7 +120,7 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[Transcendence](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/OPEN_Transcendence.pdf)** ([video](https://youtu.be/002ujSmyFdo))
 - **[XLC-Innovation](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/OPEN_XLC_Innovation.pdf)** ([video](https://www.youtube.com/watch?v=bpfD3oBH6rc))
 
-#### SoccerSim
+##### SoccerSim
 
 - **[A.T.S.T](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_A.T.S.T.pdf)** ([video](https://mega.nz/file/aVRzDCJI#lLK-iSWKtZwIZIste7jk3d8CFeTz4BBvI9oPqAZE0sE))
 - **[Allameh Tabatabaei](https://robocupjuniortc.github.io/soccer-2021/pdfs/TDPs/SIM_Alameh_Tabatabaei.pdf)** ([video](https://drive.google.com/file/d/1-9THlO8zP4ibgtoG_xkgeaT0e5JIfPjK/view?usp=sharing))
