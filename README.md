@@ -163,26 +163,26 @@ Team Description Papers (TDPs) and Videos presented at the
 
 ##### Lightweight
 
-- **[Aperture Robotics](https://drive.google.com/file/d/1BciaTzFyWtwUW7i2RBLrjqioYOArpkVb/view?usp=sharing)**
-- **[Bodenseeadler](https://drive.google.com/file/d/1-mX0biqkXri0Kw6fgkClfACxBPO3kxy6/view?usp=sharing)**
-- **[Epsilon 6](https://drive.google.com/file/d/1lAVEnMq27h2gyxhygF1U0Hbqkxkz_6ow/view?usp=sharing)**
-- **[FC Blum](https://drive.google.com/file/d/1BBwiVWKqJKXRqwtL3LHGuGcfLkKOq87C/view?usp=sharing)**
-- **[Gregorianos](https://drive.google.com/file/d/1NWBXkpkR0BEQ2vPQYkuu0PbpZCsW-Brh/view?usp=sharing)**
-- **[Redhood](https://drive.google.com/file/d/15VNd1ApyDjjv6NNz4tUC73-WcVLRndvI/view?usp=sharing)**
-- **[Roboticus](https://drive.google.com/file/d/1Y9xjpdJZWqulncltTBuXXvAqUkHA75_c/view?usp=sharing)**
-- **[Shinobi](https://drive.google.com/file/d/14vMU-JeGyHOXmeuvO7Lo1XEAVlvSTALC/view?usp=sharing)**
-- **[SonicSaints](https://drive.google.com/file/d/1_8WGt3D2sDXM3FHj3zCHJHFRihwFXlza/view?usp=sharing)**
-- **[Elite](https://drive.google.com/file/d/1C3YLHwWIxDp0G_9tG9b5k3MoWK5WG7O2/view?usp=sharing)**
+- **[Aperture Robotics](https://drive.google.com/file/d/1BciaTzFyWtwUW7i2RBLrjqioYOArpkVb/view)**
+- **[Bodenseeadler](https://drive.google.com/file/d/1-mX0biqkXri0Kw6fgkClfACxBPO3kxy6/view)**
+- **[Epsilon 6](https://drive.google.com/file/d/1lAVEnMq27h2gyxhygF1U0Hbqkxkz_6ow/view)**
+- **[FC Blum](https://drive.google.com/file/d/1BBwiVWKqJKXRqwtL3LHGuGcfLkKOq87C/view)**
+- **[Gregorianos](https://drive.google.com/file/d/1NWBXkpkR0BEQ2vPQYkuu0PbpZCsW-Brh/view)**
+- **[Redhood](https://drive.google.com/file/d/15VNd1ApyDjjv6NNz4tUC73-WcVLRndvI/view)**
+- **[Roboticus](https://drive.google.com/file/d/1Y9xjpdJZWqulncltTBuXXvAqUkHA75_c/view)**
+- **[Shinobi](https://drive.google.com/file/d/14vMU-JeGyHOXmeuvO7Lo1XEAVlvSTALC/view)**
+- **[SonicSaints](https://drive.google.com/file/d/1_8WGt3D2sDXM3FHj3zCHJHFRihwFXlza/view)**
+- **[Elite](https://drive.google.com/file/d/1C3YLHwWIxDp0G_9tG9b5k3MoWK5WG7O2/view)**
 
 ##### Open
 
-- **[Bohlebots Quadro](https://drive.google.com/file/d/1eTWsc2t60vIT7HhNt0owMRx35CP62Ws7/view?usp=sharing)**
-- **[Grapes](https://drive.google.com/file/d/1ZOyEtpMJMoO5Q2wj6d_AHSTqbwR1dlW8/view?usp=sharing)**
-- **[Megahertz](https://drive.google.com/file/d/1WmA5X9IVsWNGk9Gn1bN2h3D7SDCp2hEw/view?usp=sharing)**
-- **[Orion](https://drive.google.com/file/d/1Jd_5ZCKMlo1w2pMmeDVAcMrFWeRU1dNs/view?usp=sharing)**
-- **[Polarity](https://drive.google.com/file/d/1WotSNJUyTzEwNJhiFGdmo0v6HebVFP9Y/view?usp=sharing)**
-- **[Psycho](https://drive.google.com/file/d/1kJ6lPs5v-XOhjh4Flk48mA-j1_K_tEwd/view?usp=sharing)**
-- **[Ulany](https://drive.google.com/file/d/13FAPtyWImsEaJthwo4YNqPZ-x8uGNiOv/view?usp=sharing)** 
+- **[Bohlebots Quadro](https://drive.google.com/file/d/1eTWsc2t60vIT7HhNt0owMRx35CP62Ws7/view)**
+- **[Grapes](https://drive.google.com/file/d/1ZOyEtpMJMoO5Q2wj6d_AHSTqbwR1dlW8/view)**
+- **[Megahertz](https://drive.google.com/file/d/1WmA5X9IVsWNGk9Gn1bN2h3D7SDCp2hEw/view)**
+- **[Orion](https://drive.google.com/file/d/1Jd_5ZCKMlo1w2pMmeDVAcMrFWeRU1dNs/view)**
+- **[Polarity](https://drive.google.com/file/d/1WotSNJUyTzEwNJhiFGdmo0v6HebVFP9Y/view)**
+- **[Psycho](https://drive.google.com/file/d/1kJ6lPs5v-XOhjh4Flk48mA-j1_K_tEwd/view)**
+- **[Ulany](https://drive.google.com/file/d/13FAPtyWImsEaJthwo4YNqPZ-x8uGNiOv/view)**
 
 ##### SoccerSim (Online event)
 
@@ -197,6 +197,61 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[Reset](https://drive.google.com/file/d/1wKS7s-sY-8lVWrfdmiRpoNhqrePLlM1y)** (`Outstanding TDP`)
 - **[Sina](https://drive.google.com/file/d/1nUhDa0mb71TBu2VJmea6NfFw-xc3RMO6)**
 - **[Speshari](https://drive.google.com/file/d/1DA7DTUwTPm_msuHFJStDBgv8KP3rkGWs)**
+
+#### 2023 - Bordeaux
+
+##### Lightweight
+
+- **[Aperture Robotics](https://drive.google.com/file/d/1SiGYok_ipUDLa4foxfPOh8DWkbOzyykB/view)**
+- **[Apex](https://drive.google.com/file/d/1ry9NL1WJNenm2RpwQSRVYsaONInA_I49/view)**
+- **[Bodenseeluchse](https://drive.google.com/file/d/1hz0UKwb6EAhLUjKS7NWXLa0YQvE3ab4j/view)** (`Outstanding Design Award`) (`Top Poster & Presentation`)
+- **[Crestwood Lions](https://drive.google.com/file/d/1_p77_xTqFV0DSJj0ND2FLFMv_4tGrSgy/view)**
+- **[DYMJ-Alpha](https://drive.google.com/file/d/1vNslbKk7dbB4hhZo4vkEVPBMnUqyWDqC/view)**
+- **[Da you ke wei](https://drive.google.com/file/d/1OvJNlAVryo4cpMlBIL1tSPhUO12P_3FU/view)**
+- **[ETC Varaždin](https://drive.google.com/file/d/1wv-bBMOsuO5_5vnbSuoXhfXJQUB-_UE-/view)**
+- **[Edge](https://drive.google.com/file/d/1_eC7_TeF7UjlsgihQciBSKMEKDOi480Q/view)**
+- **[GREGORIANOS](https://drive.google.com/file/d/1ThTROG1J5yY2huY4DgsMi3Aws8jTvQRo/view)**
+- **[IFOS Robots Soccer](https://drive.google.com/file/d/1Rcisqk9wdPacXahwXgBTOnS26eRASRsj/view)**
+- **[K.O.R.](https://drive.google.com/file/d/1zR79NpmPRGlEKvzOqaQaTUS2P7PnepHD/view)**
+- **[Oi_DENGIKEN](https://drive.google.com/file/d/1tqXdp83N1JcL4-LEyyZdtuW3xSqtl_mn/view)** (`Outstanding Design Award`) (`Individual Team 1st Place`)
+- **[Polarity](https://drive.google.com/file/d/19QhUUWomueS5lWse-7rpb65mHh4eayWy/view)**
+- **[RBL Gardner](https://drive.google.com/file/d/1bmcBOC7nTFs9ILIemBsKwXwGGvghqprA/view)**
+- **[Rasta](https://drive.google.com/file/d/146fGXOyzOpeSu_xjeBL2pC1agyp-KfvP/view)**
+- **[Roboticus](https://drive.google.com/file/d/1yG4yniJekwX-95FC_Hbr60_qcWIc7FO_/view)** (`Outstanding Achievement Award`) (`Individual Team 3rd Place`)
+- **[Robotronic](https://drive.google.com/file/d/1pipCyDuahYfwyWJu_0eiiHBK1-DNk3LT/view)**
+- **[Sentinels](https://drive.google.com/file/d/1vDOk1M05jz6FOnE3QeMh4H4ygc4QOqY_/view)**
+- **[TSC FootBot](https://drive.google.com/file/d/1_DgrAAMRawwXyaN52pC9FlGGRgCCr8J0/view)**
+- **[Team 131](https://drive.google.com/file/d/1bcSmeZnIv4pOz18NE2cBlMQprBpSOtn8/view)**
+- **[Team Radian](https://drive.google.com/file/d/16gOWicRRRIyEg8Iel_49_54vwVpy50_s/view)** (`Individual Team 2nd Place`)
+- **[Tech Turtle](https://drive.google.com/file/d/1nOtZcoaw4r4laL5R8z9pA-1s3tQl2rIV/view)**
+- **[UGAMM-SOCCER](https://drive.google.com/file/d/166SIwxXWkeOeo9Jlf_eWeeQb7KLkBf1v/view)** (`Individual Game Champion`)
+- **[socks](https://drive.google.com/file/d/12SfDlT_EpTZh4C_-W-Bix-BbG6BDVn62/view)**
+
+##### Open
+
+- **[CHAMBERY-SOCCER](https://drive.google.com/file/d/1lmRW4z58IfOqJhgdrmOFcw4WnyhFr0R0/view)**
+- **[CHAPTAL FOOT](https://drive.google.com/file/d/1dDXcbzs4oTDVt_XiSoCiPEyiSeyl2u_K/view)**
+- **[ELEKTRO SOCKS](https://drive.google.com/file/d/1dv_0b65n9Z85eKLK2P7y8VYqFYl7xI-S/view)**
+- **[EMM-SOCCER](https://drive.google.com/file/d/1jCZPYfGO-aVy-PtUfWZoGibZUaQ8ty9k/view)**
+- **[Epsilon 6](https://drive.google.com/file/d/1ApaKBhdDPcd3bPVM_Fns4z6Ljj1LCvPT/view)** (`Outstanding Design Award`) (`Top Poster & Presentation`)
+- **[Go for broke](https://drive.google.com/file/d/1VG49wvMTlj3t8SuXCBJVwZj_rMWNZaw6/view)**
+- **[KicktronZ](https://drive.google.com/file/d/1LUr2r5q_8MV3QX-C1hOabRyJhmop__-T/view)**
+- **[KiloHertz](https://drive.google.com/file/d/14nHeRJRPVMEY0nkOxJmM-Z1W6Fb2m8Id/view)**
+- **[LNX Robots](https://drive.google.com/file/d/14zEjYj4pQ90MZ_sjx4mUgHqnU_0Ctvk6/view)**
+- **[MARVEL](https://drive.google.com/file/d/1ys9ZLp3ABihgzxMGj05yeTXbHPWxZ2Su/view)**
+- **[MapleTech Elite](https://drive.google.com/file/d/1WSyD5cVPPHX_3856gwgH_JMY7VgmWo-h/view)** (`Individual Game Champion`)
+- **[MapleTech Nebula](https://drive.google.com/file/d/18wVlBfqoMWBPRvLecfTgksPiJu9KkDqb/view)**
+- **[Metis](https://drive.google.com/file/d/1yH4-N-soFUk640dxfR1M62i6fgIBLO5R/view)**
+- **[Munako Gladiolus](https://drive.google.com/file/d/1fe1HcS8O6j0OsU2NnRGxA874-4u1R7Qg/view)** (`Individual Team 2nd Place`)
+- **[PREPATEC VOLTEC ROBOTICS](https://drive.google.com/file/d/1DbrShTkaTvo4DMCnts050bzriZ4XE5x4/view)**
+- **[Reset](https://drive.google.com/file/d/1JoznM4PxydeVoR3zbi39df8diUhpG2ef/view)**
+- **[Reyout](https://drive.google.com/file/d/11TfNGgIjGc9U_JsfRZBxZ1mjqNgf5Bj7/view)**
+- **[Team Elite](https://drive.google.com/file/d/1cFer2_AVbSEXTuP0Un28ATmXDhHyQcR8/view)**
+- **[Team Faabs](https://drive.google.com/file/d/14tF2dJZBSEG00Srmp3W_8m9PpmfQ5WTA/view)** (`Outstanding Design Award`) (`Individual Team 1st Place`)
+- **[The Mish](https://drive.google.com/file/d/1xHT9uZFax5Pbvd6ZS8tQZEKo1PLWC9BT/view)**
+- **[XLC-YOUNGLINGS](https://drive.google.com/file/d/1R58NHFpM6Jy-Lw6p09B0MqWoG6R_I9nj/view)**
+- **[i-bots 2](https://drive.google.com/file/d/1d3mUJB_KyMR_8h4FBOajQt7wy2gyxTRP/view)** (`Outstanding Design Award`) (`Individual Team 3rd Place`)
+- **[socks](https://drive.google.com/file/d/1mj1cidcImzRmGZ2K3rgeM9vZLnLpr2o7/view)** (`Outstanding Design Award`)
 
 
 ### Related lists
