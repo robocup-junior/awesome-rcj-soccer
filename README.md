@@ -253,6 +253,12 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[i-bots 2](https://drive.google.com/file/d/1d3mUJB_KyMR_8h4FBOajQt7wy2gyxTRP/view)** [PDF](https://drive.google.com/file/d/1p86eI6RfzElqA9pOCRj2Z2Uw1rdYrroi/view) (`Outstanding Design Award`) (`Individual Team 3rd Place`)
 - **[socks](https://drive.google.com/file/d/1mj1cidcImzRmGZ2K3rgeM9vZLnLpr2o7/view)** (`Outstanding Design Award`)
 
+##### SoccerSim (Online event)
+
+- **[!focus()](https://drive.google.com/file/d/1wMZUzAKwPxpMIFcxEPBo2nAnOcsGuA9C/view)**
+- **[Boutia](https://drive.google.com/file/d/1DEiIaxsOm30pRGmVrKgaeyKXwJXsA_Xr/view)**
+- **[def End](https://drive.google.com/file/d/1Ea2bxIEi6j5kmzfgWpGSNmnTiHQLpCvH/view)**
+- **[Lotus](https://drive.google.com/file/d/1G8wE0ytHp-YuKOlkesnjXJto9zn_bY8N/view)**
 
 ### Related lists
 
