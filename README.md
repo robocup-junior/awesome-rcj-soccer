@@ -238,7 +238,7 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[Go for broke](https://drive.google.com/file/d/1VG49wvMTlj3t8SuXCBJVwZj_rMWNZaw6/view)** [PDF](https://drive.google.com/file/d/1BYrp3SLLn4-OMp8VMAXm3nQc92jr-UB1/view)
 - **[KicktronZ](https://drive.google.com/file/d/1LUr2r5q_8MV3QX-C1hOabRyJhmop__-T/view)** [PDF](https://drive.google.com/file/d/1oQkmzuPYxTvDL5VTjGHHgl99Q8ADZEFc/view)
 - **[KiloHertz](https://drive.google.com/file/d/14nHeRJRPVMEY0nkOxJmM-Z1W6Fb2m8Id/view)** [PDF](https://drive.google.com/file/d/1oPQruELQaHpV2GL3MmVr-vvQ_9lqN5bU/view)
-- **[LNX Robots](https://drive.google.com/file/d/14zEjYj4pQ90MZ_sjx4mUgHqnU_0Ctvk6/view)** [PDF](https://lnxrobots.github.io/docs/2023/LNX_Robots_poster.pdf)
+- **[LNX Robots](https://drive.google.com/file/d/14zEjYj4pQ90MZ_sjx4mUgHqnU_0Ctvk6/view)** [PDF](https://drive.google.com/file/d/1WFm88cNSn49q9shjHiPXr8eSXZ06EX7D/view)
 - **[MARVEL](https://drive.google.com/file/d/1ys9ZLp3ABihgzxMGj05yeTXbHPWxZ2Su/view)**
 - **[MapleTech Elite](https://drive.google.com/file/d/1WSyD5cVPPHX_3856gwgH_JMY7VgmWo-h/view)** [PDF](https://drive.google.com/file/d/1dLDmAim15iQARG3g9oM3KvT69zLWOpx4/view) (`Individual Game Champion`)
 - **[MapleTech Nebula](https://drive.google.com/file/d/18wVlBfqoMWBPRvLecfTgksPiJu9KkDqb/view)** [PDF](https://drive.google.com/file/d/15ydOua1uxY0-vLmIyP9YKKaye9SlFCsA/view)
