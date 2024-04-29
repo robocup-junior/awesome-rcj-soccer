@@ -32,6 +32,7 @@ and creating a Pull Request!
 - **[Galacticos](http://galacticos.robotsa.com/en/teams/soccer/robocup-2018/)**
 - **[Bohlebots](https://bohlebots.de/), also open source components [on GitHub](https://github.com/stiebel/bohlebots)**
 - **[LNX Robots](https://lnxrobots.github.io), also on [GitHub](https://github.com/lnxrobots)**
+- **[Technulgy](https://technulgy.com/en/), also on [GitHub](https://github.com/Robotik-Lessing-Gymnasium-Neu-Ulm)**
 - [:robot::soccer: **CoRoSoN-Kit**: **Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers ](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
 
 ### Posters
