@@ -259,8 +259,19 @@ Team Description Papers (TDPs) and Videos presented at the
 
 - **[!focus()](https://drive.google.com/file/d/1wMZUzAKwPxpMIFcxEPBo2nAnOcsGuA9C/view)**
 - **[Boutia](https://drive.google.com/file/d/1DEiIaxsOm30pRGmVrKgaeyKXwJXsA_Xr/view)**
-- **[def End](https://drive.google.com/file/d/1Ea2bxIEi6j5kmzfgWpGSNmnTiHQLpCvH/view)**
+- **[def End](https://drive.google.com/file/d/1Ea2bxIEi6j5kmzfgWpGSNmnTiHQLpCvH/view)** (`Outstanding TDP`)
 - **[Lotus](https://drive.google.com/file/d/1G8wE0ytHp-YuKOlkesnjXJto9zn_bY8N/view)**
+
+#### 2024 - Eindhoven
+
+##### Lightweight
+
+##### Open
+
+##### SoccerSim (Online event)
+
+- **[Sina](https://drive.google.com/file/d/1-h5sFW1wqsRhXRTJp8WBPGHmVPu0-r-I/view)** (`Outstanding TDP`)
+- **[Williamstown Magic](https://drive.google.com/file/d/1rjmy5X5gjzQLOeRw7uvpU8gkuYiiAqaD/view)**
 
 ### Related lists
 
