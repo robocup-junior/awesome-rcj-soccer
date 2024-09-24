@@ -34,6 +34,7 @@ and creating a Pull Request!
 - **[LNX Robots](https://lnxrobots.github.io), also on [GitHub](https://github.com/lnxrobots)**
 - **[Technulgy](https://technulgy.com/en/), also on [GitHub](https://github.com/Robotik-Lessing-Gymnasium-Neu-Ulm)**
 - [:robot::soccer: **CoRoSoN-Kit**: **Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers ](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
+- **[Team Omicron](https://github.com/mattyoung101/omicron)**
 
 ### Posters
 
