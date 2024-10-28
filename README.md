@@ -219,7 +219,7 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[RBL Gardner](https://drive.google.com/file/d/1bmcBOC7nTFs9ILIemBsKwXwGGvghqprA/view)** [PDF](https://drive.google.com/file/d/1ZSjq7OjqVsGDmD6H8dkfu4NTr31hNYd1/view)
 - **[Rasta](https://drive.google.com/file/d/146fGXOyzOpeSu_xjeBL2pC1agyp-KfvP/view)** [PDF](https://drive.google.com/file/d/14YPPtWz-noxYM56RybCBx0o7qkN1ezE7/view)
 - **[Roboticus](https://drive.google.com/file/d/1yG4yniJekwX-95FC_Hbr60_qcWIc7FO_/view)** [PDF](https://drive.google.com/file/d/1t-1xw9VSBkhBzzCis2DkxR_mzkxflMdW/view) (`Outstanding Achievement Award`) (`Individual Team 3rd Place`)
-- **[Robotronic](https://drive.google.com/file/d/1pipCyDuahYfwyWJu_0eiiHBK1-DNk3LT/view)** [PDF](https://github.com/Robotik-Lessing-Gymnasium-Neu-Ulm/OpenSource-Papers/blob/4b28431253c25f1e5993258253431b828b48af5d/v2023/Poster-Robotronic.pdf) [TDP](https://github.com/Robotik-Lessing-Gymnasium-Neu-Ulm/OpenSource-Papers/blob/4b28431253c25f1e5993258253431b828b48af5d/v2023/TDP-Robotronic.pdf)
+- **[Robotronic](https://drive.google.com/file/d/1pipCyDuahYfwyWJu_0eiiHBK1-DNk3LT/view)** [PDF](https://drive.google.com/file/d/16Kvb7x8uQl2NUJKKvNcLdzQ60mhQb96j/view) [TDP](https://github.com/Robotik-Lessing-Gymnasium-Neu-Ulm/OpenSource-Papers/blob/4b28431253c25f1e5993258253431b828b48af5d/v2023/TDP-Robotronic.pdf)
 - **[Sentinels](https://drive.google.com/file/d/1vDOk1M05jz6FOnE3QeMh4H4ygc4QOqY_/view)**
 - **[TSC FootBot](https://drive.google.com/file/d/1_DgrAAMRawwXyaN52pC9FlGGRgCCr8J0/view)** [PDF](https://drive.google.com/file/d/1pJql-F8fUi4GukOb6e0lD-SNYAbYRoil/view)
 - **[Team 131](https://drive.google.com/file/d/1bcSmeZnIv4pOz18NE2cBlMQprBpSOtn8/view)**
