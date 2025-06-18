@@ -4,38 +4,38 @@ Awesome RoboCupJunior Soccer
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a list of various websites, documents, posters, videos and other
-resources relevant for [RoboCupJunior](https://junior.robocup.org/)
-[Soccer](https://junior.robocup.org/rcj-soccer-lightweight/). It is an attempt
+resources relevant for [**RoboCupJunior Soccer**](https://junior.robocup.org/soccer/). It is an attempt
 to gather everything useful in one place for everybody who wants to learn more.
 
 Please feel free to suggest changes by [editing the
 file](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer/edit/master/README.md)
 and creating a Pull Request!
 
-### Links ###
+### Robocup Junior Links
 
-- [General RoboCupJunior Rules](https://junior.robocup.org/robocupjunior-general-rules/)
-- [Soccer Rules (2020)](https://junior.robocup.org/wp-content/uploads/2020Rules/final_2020rules/RCJ2020-Soccer-final.pdf)
-- [Soccer Rubrics (2019)](https://junior.robocup.org/wp-content/uploads/2019Rules/2019_Soccer_Rubrics_Final.pdf)
+- [**General RoboCupJunior Rules**](https://junior.robocup.org/robocupjunior-general-rules/)
+- [**Soccer Rules (2025)**](https://robocup-junior.github.io/soccer-rules/master/rules.pdf)
+- [**Soccer Rubrics (Draft 2025)**](https://docs.google.com/document/d/e/2PACX-1vT_IFP54_7w8hxI2SrFY-cuj7XYYPDEN_NUvIkyf9NX2d3XXxOzGlknK04SDnOBQ1wXsUrDlPsdJ-uj/pub)
+- [**RoboCupJunior Website**](https://junior.robocup.org/)
+- [**RoboCupJunior Forum**](https://junior.forum.robocup.org/)
+- [**RoboCupJunior Discord Server**](https://discord.gg/MbY9EhUcwD)
+- [**RoboCupJunior YouTube Channel**](https://www.youtube.com/@robocupjr/streams)
 
-- [RoboCupJunior Website](https://junior.robocup.org/)
-- [RoboCupJunior Forum](https://junior.forum.robocup.org/)
+### Soccer Team Websites & Resources
 
+- **Galacticos (Mexico, 2018):** [**Website**](https://galacticos.robotsa.com/)
+- **Storming FC (2020):** [**Google Drive**](https://drive.google.com/drive/folders/1Q-wbUy15XnOSqDXD2t7uGo6TDhLnI7Sx?usp=sharing)
+- **TeamNT (Japan, 2020):** [**Wesbite**](https://sites.google.com/view/nt-rcj/), [**Blog**](https://konoe-akitoshi.theblog.me/)
+- **Transcendence (Singapore, 2020):** [**Website**](https://bozotics.github.io/), [**GitHub**](https://github.com/bozotics)
+- **Omicron (Australia, 2020):** [**Website**](https://teamomicron.github.io/) [**GitHub**](https://github.com/mattyoung101/omicron)
+- **CoRoSon-Kit (2022):** Components for RobocupJunior Soccer Newcomers [**GitHub**](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
+- **XLC Team (Slovakia, 2024):** [**Website**](https://xlc-team.info/), [**GitHub**](https://github.com/xlcteam)
+- **Technulugy (Germany, 2025):** [**Website**](https://technulgy.com/), [**GitHub**](https://github.com/technulgy-lgnu)
+- **Bohlebots (Germany, 2025):** [**Website**](https://bohlebots.de/), [**GitHub**](https://github.com/stiebel/bohlebots)
+- **LNX Robots (Solvakia, 2025):** [Website](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
 
-### Team Websites / Resources
-
-- **[Storming FC](https://drive.google.com/drive/folders/1Q-wbUy15XnOSqDXD2t7uGo6TDhLnI7Sx?usp=sharing)**
-- **[NT](https://sites.google.com/view/nt-rcj/)**
-- **[Transcendence](https://bozo.infocommsociety.com/)**
-- **[XLC-Innovation](https://github.com/xlcteam/OpenBot)**
-- **[Robots FC](https://drive.google.com/drive/folders/1-62xTa-WVdmEZmCUi7LeJ8dB6AmG2IRY)**
-- **[Galacticos](http://galacticos.robotsa.com/en/teams/soccer/robocup-2018/)**
-- **[Bohlebots](https://bohlebots.de/), also open source components [on GitHub](https://github.com/stiebel/bohlebots)**
-- **[LNX Robots](https://lnxrobots.github.io), also on [GitHub](https://github.com/lnxrobots)**
-- **[Technulgy - Robotics Lessing Gymnasium](https://technulgy.com/), also on [GitHub](https://github.com/technulgy-lgnu)**
-- [:robot::soccer: **CoRoSoN-Kit**: **Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers ](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
-- **[Team Omicron](https://github.com/mattyoung101/omicron)**
-
+*Dates are refering to latest major update in their resources*
+  
 ### Posters
 
 #### 2017 - Nagoya
