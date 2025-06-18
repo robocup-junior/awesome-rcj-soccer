@@ -30,9 +30,16 @@ and creating a Pull Request!
 - **Omicron (Australia, 2020):** [**Website**](https://teamomicron.github.io/) [**GitHub**](https://github.com/mattyoung101/omicron)
 - **CoRoSon-Kit (2022):** Components for RobocupJunior Soccer Newcomers [**GitHub**](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
 - **XLC Team (Slovakia, 2024):** [**Website**](https://xlc-team.info/), [**GitHub**](https://github.com/xlcteam)
-- **Technulugy (Germany, 2025):** [**Website**](https://technulgy.com/), [**GitHub**](https://github.com/technulgy-lgnu)
+- **chaBots (Mexico, 2024):** [**Website**](https://docs.chabots.com.mx), [**GitHub**](https://github.com/chaBotsMX)
+- **Roboticus (Netherlands, 2024):** [**Website**](https://roboticus.nl/en/)
+- **Bodenseeluchse (Germany, 2024):** [**Website**](https://www.lynx-robotics.org/)
+- **Edge (Japan, 2024):** [**Blog 1**](https://note.com/bee_blog), [**Blog 2**](https://note.com/shiokara_rcj), [**X**](https://x.com/EdgeRCJ)
+- **Oi_DENGIKEN (Japan, 2025):** [**Website**](https://dengiken.jp/oi-dengiken/)
 - **Bohlebots (Germany, 2025):** [**Website**](https://bohlebots.de/), [**GitHub**](https://github.com/stiebel/bohlebots)
-- **LNX Robots (Solvakia, 2025):** [Website](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
+- **Technulugy (Germany, 2025):** [**Website**](https://technulgy.com/), [**GitHub**](https://github.com/technulgy-lgnu)
+- **LNX Robots (Solvakia, 2025):** [**Website**](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
+- **Munako Artemis (Japan, 2025):** [**Website**](https://munako-artemis.github.io/), [**GitHub**](https://github.com/MUNAKATA-EPC), [**X**](https://x.com/munako_artemis)
+- **Munako Aegis (Japan, 2025):** [**Blog**](https://note.com/munakoaegis), [**X**](https://x.com/munako_aegis)
 
 *Dates are refering to latest major update in their resources*
   
