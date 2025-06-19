@@ -14,8 +14,7 @@ and creating a Pull Request!
 ### Robocup Junior Links
 
 - [**General RoboCupJunior Rules**](https://junior.robocup.org/robocupjunior-general-rules/)
-- [**Soccer Rules (2025)**](https://robocup-junior.github.io/soccer-rules/master/rules.pdf)
-- [**Soccer Rubrics (Draft 2025)**](https://docs.google.com/document/d/e/2PACX-1vT_IFP54_7w8hxI2SrFY-cuj7XYYPDEN_NUvIkyf9NX2d3XXxOzGlknK04SDnOBQ1wXsUrDlPsdJ-uj/pub)
+- [**Soccer Rules**](https://robocup-junior.github.io/soccer-rules/master/rules.pdf)
 - [**RoboCupJunior Website**](https://junior.robocup.org/)
 - [**RoboCupJunior Forum**](https://junior.forum.robocup.org/)
 - [**RoboCupJunior Discord Server**](https://discord.gg/MbY9EhUcwD)
@@ -23,25 +22,23 @@ and creating a Pull Request!
 
 ### Soccer Team Websites & Resources
 
-- **Galacticos (Mexico, 2018):** [**Website**](https://galacticos.robotsa.com/)
-- **Storming FC (2020):** [**Google Drive**](https://drive.google.com/drive/folders/1Q-wbUy15XnOSqDXD2t7uGo6TDhLnI7Sx?usp=sharing)
-- **TeamNT (Japan, 2020):** [**Wesbite**](https://sites.google.com/view/nt-rcj/), [**Blog**](https://konoe-akitoshi.theblog.me/)
-- **Transcendence (Singapore, 2020):** [**Website**](https://bozotics.github.io/), [**GitHub**](https://github.com/bozotics)
-- **Omicron (Australia, 2020):** [**Website**](https://teamomicron.github.io/) [**GitHub**](https://github.com/mattyoung101/omicron)
-- **CoRoSon-Kit (2022):** Components for RobocupJunior Soccer Newcomers [**GitHub**](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
-- **XLC Team (Slovakia, 2024):** [**Website**](https://xlc-team.info/), [**GitHub**](https://github.com/xlcteam)
-- **chaBots (Mexico, 2024):** [**Website**](https://docs.chabots.com.mx), [**GitHub**](https://github.com/chaBotsMX)
-- **Roboticus (Netherlands, 2024):** [**Website**](https://roboticus.nl/en/)
-- **Bodenseeluchse (Germany, 2024):** [**Website**](https://www.lynx-robotics.org/)
-- **Edge (Japan, 2024):** [**Blog 1**](https://note.com/bee_blog), [**Blog 2**](https://note.com/shiokara_rcj), [**X**](https://x.com/EdgeRCJ)
-- **Oi_DENGIKEN (Japan, 2025):** [**Website**](https://dengiken.jp/oi-dengiken/)
-- **Bohlebots (Germany, 2025):** [**Website**](https://bohlebots.de/), [**GitHub**](https://github.com/stiebel/bohlebots)
-- **Technulugy (Germany, 2025):** [**Website**](https://technulgy.com/), [**GitHub**](https://github.com/technulgy-lgnu)
-- **LNX Robots (Solvakia, 2025):** [**Website**](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
-- **Munako Artemis (Japan, 2025):** [**Website**](https://munako-artemis.github.io/), [**GitHub**](https://github.com/MUNAKATA-EPC), [**X**](https://x.com/munako_artemis)
-- **Munako Aegis (Japan, 2025):** [**Blog**](https://note.com/munakoaegis), [**X**](https://x.com/munako_aegis)
-
-*Dates are refering to latest major update in their resources*
+- **Galacticos (Mexico):** [**Website**](https://galacticos.robotsa.com/)
+- **Storming FC (USA):** [**Google Drive**](https://drive.google.com/drive/folders/1Q-wbUy15XnOSqDXD2t7uGo6TDhLnI7Sx?usp=sharing)
+- **TeamNT (Japan):** [**Wesbite**](https://sites.google.com/view/nt-rcj/), [**Blog**](https://konoe-akitoshi.theblog.me/)
+- **Transcendence (Singapore):** [**Website**](https://bozotics.github.io/), [**GitHub**](https://github.com/bozotics)
+- **Omicron (Australia):** [**Website**](https://teamomicron.github.io/) [**GitHub**](https://github.com/mattyoung101/omicron)
+- **CoRoSon-Kit:** Components for RobocupJunior Soccer Newcomers [**GitHub**](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit)
+- **XLC Team (Slovakia):** [**Website**](https://xlc-team.info/), [**GitHub**](https://github.com/xlcteam)
+- **chaBots (Mexico):** [**Website**](https://docs.chabots.com.mx), [**GitHub**](https://github.com/chaBotsMX)
+- **Roboticus (Netherlands):** [**Website**](https://roboticus.nl/en/)
+- **Bodenseeluchse (Germany):** [**Website**](https://www.lynx-robotics.org/)
+- **Edge (Japan):** [**Blog 1**](https://note.com/bee_blog), [**Blog 2**](https://note.com/shiokara_rcj), [**X**](https://x.com/EdgeRCJ)
+- **Oi_DENGIKEN (Japan):** [**Website**](https://dengiken.jp/oi-dengiken/)
+- **Bohlebots (Germany):** [**Website**](https://bohlebots.de/), [**GitHub**](https://github.com/stiebel/bohlebots)
+- **Technulugy (Germany):** [**Website**](https://technulgy.com/), [**GitHub**](https://github.com/technulgy-lgnu)
+- **LNX Robots (Solvakia):** [**Website**](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
+- **Munako Artemis (Japan):** [**Website**](https://munako-artemis.github.io/), [**GitHub**](https://github.com/MUNAKATA-EPC), [**X**](https://x.com/munako_artemis)
+- **Munako Aegis (Japan):** [**Blog**](https://note.com/munakoaegis), [**X**](https://x.com/munako_aegis)
   
 ### Posters
 
