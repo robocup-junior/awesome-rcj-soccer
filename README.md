@@ -326,20 +326,20 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[team. Shoun](https://drive.google.com/file/d/1nHvh4kmt4zLpQRV6LItnIOIzKqBomJAZ/view)**
 - **[Ulany](https://drive.google.com/file/d/1yvVThKl3FD0xQyFyznKsKYk-e_hn1eoZ/view)**
 
-#### 2025 - Salvador da Bahia
-
-##### Open League
-
-- **[All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/OpenLeague/)**
-
-##### Lightweight League
-
-- **[All Lightweight League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/LWL)**
-
 ##### SoccerSim (Online event)
 
 - **[Sina](https://drive.google.com/file/d/1-h5sFW1wqsRhXRTJp8WBPGHmVPu0-r-I/view)** (`Outstanding TDP`)
 - **[Williamstown Magic](https://drive.google.com/file/d/1rjmy5X5gjzQLOeRw7uvpU8gkuYiiAqaD/view)**
+
+#### 2025 - Salvador da Bahia
+
+##### Lightweight
+
+- **[All Lightweight League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/LWL)**
+
+##### Open
+
+- **[All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/OpenLeague/)**
 
 ### Related lists
 
