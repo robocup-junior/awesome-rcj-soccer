@@ -330,10 +330,11 @@ Team Description Papers (TDPs) and Videos presented at the
 
 ##### Open League
 
-- ** [All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/past_event_documents/2025/posters/OpenLeague/) **
-- ** [All Lightweight League posters](https://github.com/robocup-junior/awesome-rcj-soccer/past_event_documents/2025/posters/LWL/) **
+- **[All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/OpenLeague/)**
 
 ##### Lightweight League
+
+- **[All Lightweight League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/LWL)**
 
 ##### SoccerSim (Online event)
 
