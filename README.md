@@ -341,6 +341,11 @@ Team Description Papers (TDPs) and Videos presented at the
 
 - **[All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/OpenLeague/)**
 
+
+### TDPs
+#### 2025 - Salvador, Brazil
+- See: **[rcj-soccer-tdp-2025](https://github.com/robocup-junior/rcj-soccer-tdp-2025)**
+
 ### Related lists
 
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
