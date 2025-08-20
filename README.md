@@ -332,18 +332,7 @@ Team Description Papers (TDPs) and Videos presented at the
 - **[Williamstown Magic](https://drive.google.com/file/d/1rjmy5X5gjzQLOeRw7uvpU8gkuYiiAqaD/view)**
 
 #### 2025 - Salvador da Bahia
-
-##### Lightweight
-
-- **[All Lightweight League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/LWL)**
-
-##### Open
-
-- **[All Open League posters](https://github.com/robocup-junior/awesome-rcj-soccer/tree/master/past_event_documents/2025/posters/OpenLeague/)**
-
-
-### TDPs
-#### 2025 - Salvador, Brazil
+Posters and TDPs
 - See: **[rcj-soccer-tdp-2025](https://github.com/robocup-junior/rcj-soccer-tdp-2025)**
 
 ### Related lists
