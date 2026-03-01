@@ -335,6 +335,10 @@ Team Description Papers (TDPs) and Videos presented at the
 Posters and TDPs
 - See: **[rcj-soccer-tdp-2025](https://github.com/robocup-junior/rcj-soccer-tdp-2025)**
 
+#### Tools for event organizers
+ - [RCJ SoccerStats](https://github.com/EliasB-NU/RCJVSoccerStats): Tool to display current Catigoal Standings on public screens and Referee Screens
+ - [RCJ Paperless](https://github.com/EliasB-NU/RCJV-Paperless/): [W.I.P.] Tool to use tablets instead of scoresheets, planned RoboCup Junior Vöhringen 2027
+
 ### Related lists
 
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
