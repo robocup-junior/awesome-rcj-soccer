@@ -335,6 +335,10 @@ Team Description Papers (TDPs) and Videos presented at the
 Posters and TDPs
 - See: **[rcj-soccer-tdp-2025](https://github.com/robocup-junior/rcj-soccer-tdp-2025)**
 
+#### 2026 EU - Vienna
+Posters and TDPs
+- See **[rcj-eu-soccer-tdp-2026](https://github.com/robocup-junior/rcj-eu-soccer-tdp-2026)**
+
 ### Related lists
 
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
