@@ -7,7 +7,7 @@ This is a list of various websites, documents, posters, videos and other
 resources relevant for [**RoboCupJunior Soccer**](https://junior.robocup.org/soccer/). It is an attempt
 to gather everything useful in one place for everybody who wants to learn more.
 
-Please feel free to suggest changes by [editing the
+Please feel free to suggest changes by [editing theeeefdsffsdssfvZRAGVWCFDZFv g bcxvcgfsvtraedwsAQAWESS
 file](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer/edit/master/README.md)
 and creating a Pull Request!
 
