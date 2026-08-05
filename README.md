@@ -58,6 +58,10 @@ Listed newest first. Years with local pages link into `years/`; newer years link
 | 2018 | Montreal | [years/2018-montreal.md](years/2018-montreal.md) |
 | 2017 | Nagoya | [years/2017-nagoya.md](years/2017-nagoya.md) |
 
+#### Tools for event organizers
+ - [RCJ SoccerStats](https://github.com/EliasB-NU/RCJVSoccerStats): Tool to display current Catigoal Standings on public screens and Referee Screens
+ - [RCJ Paperless](https://github.com/EliasB-NU/RCJV-Paperless/): [W.I.P.] Tool to use tablets instead of scoresheets, planned RoboCup Junior Vöhringen 2027
+
 ### Related lists
 
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
