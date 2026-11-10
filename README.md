@@ -39,6 +39,7 @@ and creating a Pull Request!
 - **LNX Robots (Solvakia):** [**Website**](https://lnxrobots.github.io), [**GitHub**](https://github.com/lnxrobots)
 - **Munako Artemis (Japan):** [**Website**](https://munako-artemis.github.io/), [**GitHub**](https://github.com/MUNAKATA-EPC), [**X**](https://x.com/munako_artemis)
 - **Munako Aegis (Japan):** [**Blog**](https://note.com/munakoaegis), [**X**](https://x.com/munako_aegis)
+- **High Scorers (Australia)** [**Blog**](https://hamzah.syedahmed.net/posts/robocup/), [**GitHub**](https://github.com/debater-coder/robocup-26/)
 
 ### Posters & TDPs by Year
 
